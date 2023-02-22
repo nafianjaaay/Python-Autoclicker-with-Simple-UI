@@ -22,3 +22,6 @@ To run this program, you will need to install the pynput library by running pip 
 4.  Run the program by running the command python autoclicker.py.
 5.  The program window will appear, where you can set the click interval and start or stop the auto-clicking with the corresponding buttons.
 6.  To exit the program, simply click the "Exit" button or close the window.
+
+# Author
+This program was created by Nafianjaaay. If you have any questions or suggestions, please feel free to contact me at nafianfalahakbar@gmail.com.
